@@ -1,11 +1,10 @@
-import express from 'express';
-import path from 'path';
-import { fileURLToPath } from 'url';
+const express = require('express');
+const path = require('path');
 
 // Criando o equivalente ao __dirname
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+//const __dirname = path.resolve();
 
+// Inicializando o aplicativo Express
 const app = express();
 
 // Servindo arquivos estáticos

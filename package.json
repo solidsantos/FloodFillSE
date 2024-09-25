@@ -12,7 +12,6 @@
     "type": "git",
     "url": "git+https://github.com/solidsantos/FloodFillSE.git"
   },
-  "type": "module",
   "author": "",
   "license": "ISC",
   "bugs": {
