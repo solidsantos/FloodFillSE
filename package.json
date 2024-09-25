@@ -1,0 +1,25 @@
+{
+  "name": "floodfillse",
+  "version": "1.0.0",
+  "description": "Implementação do Flood Fill Morfológico para a disciplina de Processamento Digital de Imagens",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solidsantos/FloodFillSE.git"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solidsantos/FloodFillSE/issues"
+  },
+  "homepage": "https://github.com/solidsantos/FloodFillSE#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0"
+  }
+}
