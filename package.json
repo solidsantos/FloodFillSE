@@ -1,13 +1,12 @@
 {
-  "name": "floodfillse",
+  "name": "floodfillapp",
   "version": "1.0.0",
   "description": "Implementação do Flood Fill Morfológico para a disciplina de Processamento Digital de Imagens",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js",
     "start": "node server.js",
-    "build": "echo 'No build step needed'" 
+    "build": "echo 'No build step needed'"
   },
   "repository": {
     "type": "git",
